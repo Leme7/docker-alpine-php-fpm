@@ -1,4 +1,4 @@
-FROM php:7.0.8-fpm-alpine
+FROM php:7.1.4-fpm-alpine
 MAINTAINER rob@robtimmer.com
 VOLUME ["/usr/local/etc", "/var/www/html"]
 
